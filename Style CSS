@@ -1,0 +1,124 @@
+body {
+  background-color:#eae2b7;
+  color: #003049;
+  font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
+  padding:10px;
+  text-align:center;
+}
+h1 {
+  font-size:30px;
+  margin:20px;
+  text-align:center;
+}
+
+nav: after {
+content:"a hef";
+  display:table;
+  clear:both;
+}
+
+section{
+  text-align:center;
+}
+h2 {
+ font-size:30px;
+  margin:2%;
+  padding:12%
+}
+/* Set the font family for any h1, h2, or h3 heading */
+
+h2{
+  font-family: "Times New Roman",Monospace;
+  font-size: 30px;
+  color:#003049;
+}
+h3 {
+  margin:100px;
+  font-size:20px;
+  font-family: "Playfair Display", Times, serif;
+  text-align:center;
+}
+li {
+  margin:50px;
+  font-size:20px;
+  color:#003049;
+  text-align:center;
+  
+}
+article {
+  background-color:#eae2b7;
+  padding: 20px 0;
+  text-align:center;
+}
+
+article div {
+  background-color:#eae2b7;
+  text-align:center;
+  width: 50%;
+}
+header { 
+  text-align:center;
+  margin:10px;
+  font-size:20px;
+  color:#003049;
+}
+h4{
+  text-align:center;
+  margin:10px;
+  font-size:20px;
+  color:#003049;
+}
+p {
+  Font-family:"Sans-Serif", cursive;
+  text-align:center;
+  font-size:20px;
+  padding:20px;
+}
+
+img{
+  text-align:center;
+  background-color:#003049;
+  color:#003049;
+}
+/* The div container constrains the content width within the main container to 600px */
+div {
+  margin: auto;
+  width: 100px;
+}
+
+a:visted{
+  color:green;
+}
+a:link{
+  color:blue;
+}
+a:hover{
+  color:red;
+}
+img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+/* Add your solution below */
+/*center-image*/
+.image-circle{
+  border-radius: 50%;
+}
+.round{
+  border-radius:50px;
+}
+footer{
+  border:1px solid #003049;
+  padding:10px;
+  margin:60px 20px 0 0;
+  width:110%;
+  text-align:left;
+  float:left;
+  color:#003049;
+}
